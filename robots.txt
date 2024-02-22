@@ -1,1 +1,1 @@
-Sitemap: /cstl-website/sitemap.xml
+Sitemap: /sitemap.xml

@@ -46,7 +46,14 @@
       | sort: "nav.order"
     %}
     {% for page in pages %}
-      {% if page.nav %}
+      {% if page.title == "Home" %}
+        <a
+        href="{{site.url}}"
+        data-tooltip="{{ page.nav.tooltip }}"
+        >
+          {{ page.title }}
+        </a>
+      {% elsif page.nav %}
         <a
           href="{{ page.dir | relative_url }}"
           data-tooltip="{{ page.nav.tooltip }}"

@@ -1,10 +1,10 @@
 # map general type to default/fallback icon, text, etc.
 
-# team member roles
+# team member roles (role name:)
 
-pi:
+professor:
   icon: fa-solid fa-microscope
-  description: Principal Investigator
+  description: Associate Professor
 
 postdoc:
   icon: fa-solid fa-glasses
@@ -12,19 +12,16 @@ postdoc:
 
 phd:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Ph.D. Student
+
+ms:
+  icon: fa-solid fa-graduation-cap
+  description: M.S. Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Undergraduate Intern
 
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
-
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
 
 # general
 

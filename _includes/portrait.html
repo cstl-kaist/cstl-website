@@ -6,8 +6,8 @@
 
 <div class="portrait-wrapper">
   <a
-    {% if member.link.homepage %}
-      href="{{ member.link.homepage }}"
+    {% if member.homepage %}
+      href="{{ member.homepage }}"
     {% endif %}
     class="portrait"
     data-style="{{ include.style }}"

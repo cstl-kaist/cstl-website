@@ -2,7 +2,7 @@
 title: Members
 nav:
   order: 3
-  tooltip: About our lab
+  # tooltip: About our lab
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Members

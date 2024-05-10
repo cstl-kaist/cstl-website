@@ -1,8 +1,7 @@
 ---
 name: Juhoon Lee
-image: images/members/Juhoon Lee.jpg
+image: images/members/Juhoon Lee.png
 role: phd
 link:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: juhoonlee@kaist.ac.kr
 ---

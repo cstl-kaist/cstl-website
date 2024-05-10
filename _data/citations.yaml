@@ -97,6 +97,66 @@
   link: https://doi.org/10.1080/01292986.2024.2342822
   image: images/publications/Jonghyun-2024-Wiki.png
 
+- id: 10.9728/dcs.2023.24.3.473
+  title: 'Analysis of the Accessibility of Metaverse Platforms from the Perspective of Screen Reader Users'
+  authors:
+  - Jeanne Choi
+  - Ju-Sung Kim
+  - Hyun Ka
+  publisher: Journal of Digital Contents Society 2023
+  date: '2023-02-06'
+  link: http://journal.dcs.or.kr/xml/36161/36161.pdf
+  image: images/publications/Jeanne-2023-Metaverse.png
+
+- id: 10.3233/SHTI230646
+  title: 'Empirical Evaluation of Metaverse Accessibility for People Who Use Alternative Input/Output Methods'
+  authors:
+  - Jeanne Choi
+  - Hyun Ka
+  publisher: AAATE 2023
+  date: '2023-08-23'
+  link: https://pubmed.ncbi.nlm.nih.gov/37638938/
+  image: 
+
+- id: 10.1109/BigComp60711.2024.00049
+  title: 'Context-Aware Offensive Language Detection in Human-Chatbot Conversations'
+  authors:
+  - Mingi Shin
+  - Hyojin Chin
+  - Hyeonho Song
+  - Yubin Choi
+  - Junghoi Choi
+  - Meeyoung Cha
+  publisher: IEEE International Conference on Big Data and Smart Computing (BigComp) 2024
+  date: '2024-04-11'
+  link: https://ieeexplore.ieee.org/abstract/document/10488271
+  image: images/publications/Yubin-2024-ContextAware.png
+
+- id: 10.1145/3491102.3501948
+  title: 'FitVid: Responsive and Flexible Video Content Adaptation'
+  authors:
+  - Jeongyeon Kim
+  - Yubin Choi
+  - Minsuk Kahng
+  - Juho Kim
+  publisher: CHI 2022
+  date: '2022-04-29'
+  link: https://dl.acm.org/doi/abs/10.1145/3491102.3501948
+  image: images/publications/Yubin-2022-FitVid.png
+
+- id: 10.1145/3491102.3502054
+  title: 'Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities'
+  authors:
+  - Jeongyeon Kim
+  - Yubin Choi
+  - Meng Xia
+  - Juho Kim
+  publisher: CHI 2022
+  date: '2022-04-27'
+  link: https://dl.acm.org/doi/abs/10.1145/3491102.3502054
+  image: images/publications/Yubin-2022-MOOCs.png
+
+
 
 # sample format
 # - id: doi:10.1371/journal.pcbi.1007128

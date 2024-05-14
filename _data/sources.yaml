@@ -1,20 +1,63 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.1101/2023.01.05.522941
+  image: images/publications/Joseph-2021-Metaphors.png
+
+- id: doi:10.1101/2023.01.05.522941
+  image: images/publications/Joseph-2021-Chatbot.png
+
+- id: doi:10.1145/3555552
+  image: images/publications/Joseph-2022-AntiSocial.png
+
+- id: doi:10.54501/jots.v1i2.34
+  image: images/publications/Joseph-2022-VolunteerModeration.png
+
+- id: doi:10.1145/3579609
+  image: images/publications/Joseph-2023-HateRaids.png
+
+- id: doi:10.1145/3567568
+  image: images/publications/Joseph-2023-Twitch.png
+
+- id: doi:10.1145/3640543.3645155
+  image: images/publications/Yoojin-2024-DataDive.png
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      link: https://datadive.kixlab.org/
+
+- id: doi:10.1080/01292986.2024.2342822
+  image: images/publications/Jonghyun-2024-Wiki.png
+
+- id: doi:10.9728/dcs.2023.24.3.473
+  image: images/publications/Jeanne-2023-Metaverse.png
+
+- id: doi:10.3233/SHTI230646
+  image: images/publications/Jeanne-2023-Accessibility.png
+
+- id: doi:10.1109/BigComp60711.2024.00049
+  image: images/publications/Yubin-2024-ContextAware.png
+
+- id: doi:10.1145/3491102.3501948
+  image: images/publications/Yubin-2022-FitVid.png
+
+- id: doi:10.1145/3491102.3502054
+  image: images/publications/Yubin-2022-MOOCs.png
+
+# Sample Format
+# - id: doi:10.1371/journal.pcbi.1007128
+#   type: paper
+#   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#   date: 2020-12-4
+#   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+#   buttons:
+#     - type: manubot
+#       link: https://greenelab.github.io/meta-review/
+#     - type: source
+#       text: Manuscript Source
+#       link: https://github.com/greenelab/meta-review
+#     - type: website
+#       link: http://manubot.org/
+#   tags:
+#     - open science
+#     - collaboration
+#   repo: greenelab/meta-review
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg

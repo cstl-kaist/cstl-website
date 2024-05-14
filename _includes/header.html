@@ -48,7 +48,7 @@
     {% for page in pages %}
       {% if page.title == "Home" %}
         <a
-        href="{{ site.url }}"
+        href="{{ '/' | relative_url }}"
         data-tooltip="{{ page.nav.tooltip }}"
         >
           {{ page.title }}

@@ -1,14 +1,13 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1177/1461444820964968
-  title: Metaphors in moderation
+- title: Metaphors in Moderation
   authors:
   - Joseph Seering
   - Geoff Kaufman
-  - Stevie Chancellor
-  publisher: New Media &amp; Society
+  - Stevie Chancello
+  publisher: New Media and Society 2020
   date: '2020-10-20'
-  link: https://doi.org/gjttfd
+  link: doi:10.1177/1461444820964968
   image: images/publications/Joseph-2021-Metaphors.png
   plugin: sources.py
   file: sources.yaml

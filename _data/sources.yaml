@@ -1,5 +1,4 @@
-- id: doi:10.1177/14614448209649
-  title: "Metaphors in Moderation"
+- title: "Metaphors in Moderation"
   authors:
   - Joseph Seering
   - Geoff Kaufman
@@ -8,6 +7,7 @@
   date: '2020-10-20'
   link: https://doi.org/10.1177/1461444820964968
   image: images/publications/Joseph-2021-Metaphors.png
+
 - id: doi:10.1145/3449161
   image: images/publications/Joseph-2021-Chatbot.png
 

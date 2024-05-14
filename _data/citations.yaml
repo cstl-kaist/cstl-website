@@ -1,16 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- title: Metaphors in Moderation
-  authors:
-  - Joseph Seering
-  - Geoff Kaufman
-  - Stevie Chancello
-  publisher: New Media and Society 2020
-  date: '2020-10-20'
-  link: doi:10.1177/1461444820964968
-  image: images/publications/Joseph-2021-Metaphors.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/3449161
   title: Moderator Chatbot for Deliberative Discussion
   authors:

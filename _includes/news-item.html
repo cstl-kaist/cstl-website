@@ -1,0 +1,32 @@
+{% assign news = site.news 
+  | where_exp: "news", "news.slug == include.lookup"
+  | first
+  | default: include
+%}
+
+<div class="post-excerpt">
+  {% assign url = news.url %}
+  {% assign title = news.title %}
+  <a href="{{ news.website }}">{{ title }}</a>
+
+  {%
+    include post-info.html
+    semester=news.semester
+  %}
+
+  {% assign excerpt = news.content
+    | default: ""
+    | regex_scan: "<!-- excerpt start -->(.*)<!-- excerpt end -->", true
+    | default: news.excerpt
+    | default: ""
+    | strip_html
+  %}
+  {% assign search = news.content
+    | strip_html 
+    | strip_newlines
+    | regex_strip
+  %}
+  <p data-search="{{ search }}">
+    {{ excerpt }}
+  </p>
+</div>

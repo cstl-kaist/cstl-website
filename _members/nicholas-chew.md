@@ -1,7 +1,7 @@
 ---
 name: Nicholas Chew
 image: images/members/Nicholas Chew.jpg
-role: undergrad 
+role: alumni 
 link:
   email: nicholaschew@kaist.ac.kr
 ---

@@ -23,6 +23,7 @@ nav:
 ## Affiliated Members
 {% include list.html data="members" component="portrait" filters="role: affiliated" %}
 
+
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!professor$)" %} -->
 
 {% capture content %}

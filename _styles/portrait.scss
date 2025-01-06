@@ -18,6 +18,20 @@
   text-decoration: none;
 }
 
+.portrait-small {
+  position: relative;
+  display: inline-flex;
+  // justify-content: center;
+  // align-items: center;
+  flex-direction: row;
+  gap: 20px;
+  margin: 20px;
+  width: 400px;
+  max-width: calc(50% - 20px - 20px);
+  text-decoration: none;
+  text-align: left;
+}
+
 .portrait[data-style="small"] {
   width: 100px;
 }
@@ -31,6 +45,14 @@
 
 .portrait-image {
   width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 999px;
+  object-fit: cover;
+  box-shadow: var(--shadow);
+}
+
+.portrait-small-image {
+  width: 20%;
   aspect-ratio: 1 / 1;
   border-radius: 999px;
   object-fit: cover;
@@ -51,9 +73,22 @@
   line-height: calc(var(--spacing) - 0.4);
 }
 
+.portrait-label {
+  display: flex;
+  gap: 10px;
+}
+
 .portrait-name {
   font-family: var(--heading);
   font-weight: var(--semi-bold);
+  color: var(--text);
+}
+
+.portrait-term{
+  color: var(--gray);
+  font-weight: var(--thin);
+  font-size: var(--small);
+
 }
 
 .portrait-role .icon {

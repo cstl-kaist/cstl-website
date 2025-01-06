@@ -5,10 +5,7 @@
 %}
 
 <div class="portrait-wrapper">
-  <a
-    {% if member.homepage %}
-      href="{{ member.homepage }}"
-    {% endif %}
+  <span
     class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: 'member link' }}"
@@ -24,9 +21,13 @@
     {% if member.name or member.role or member.description or member.link %}
       <span class="portrait-text">
         {% if member.name %}
-          <span class="portrait-name">
+          <a class="portrait-name"
+            {% if member.homepage %}
+              href="{{ member.homepage }}"
+            {% endif %}
+          >
             {{ member.name }}
-          </span>
+          </a>
         {% endif %}
 
         {% if member.role %}
@@ -50,7 +51,7 @@
           </span>
         {% endif %}
 
-      </span>
+        </span>
     {% endif %}
-  </a>
+  </span>
 </div>

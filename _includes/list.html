@@ -24,6 +24,7 @@
 
     {%
       include {{ include.component | append: ".html" }}
+      affiliation=d.affiliation
       author=d.author
       authors=d.authors
       buttons=d.buttons
@@ -46,9 +47,11 @@
       role=d.role
       semester=d.semester
       slug=d.slug
+      status=d.status
       style=style
       subtitle=d.subtitle
       tags=d.tags
+      term=d.term
       text=d.text
       title=d.title
       tooltip=d.tooltip

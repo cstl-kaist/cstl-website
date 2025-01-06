@@ -17,11 +17,17 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ms" %}
 {% include section.html %}
 
-## Undergraduate Students
+## Undergraduate Interns
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
 ## Affiliated Members
 {% include list.html data="members" component="portrait" filters="role: affiliated" %}
+
+## Alumni
+### Visiting Researcher
+{% include list.html data="members" component="portrait-list" filters="role: alumni, status: visiting" %}
+### Undergraduate Interns
+{% include list.html data="members" component="portrait-list" filters="role: alumni, status: undergrad" %}
 
 
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!professor$)" %} -->

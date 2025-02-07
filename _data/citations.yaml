@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3686941
+  title: |
+    Chillbot: Content Moderation in the Backchannel
+  authors:
+  - Joseph Seering
+  - Manas Khadka
+  - Nava Haghighi
+  - Tanya Yang
+  - Zachary Xi
+  - Michael Bernstein
+  publisher: Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW2
+  date: '2024-11-08'
+  link: https://doi.org/10.1145/3686941
+  image: images/publications/Joseph-2025-Chillbot.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3449161
   title: Moderator Chatbot for Deliberative Discussion
   authors:

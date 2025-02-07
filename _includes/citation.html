@@ -4,6 +4,7 @@
   | first
   | default: include
 %}
+{% assign lab_members = site.data.members %}
 
 <div class="citation">
   {% if include.style == "rich" %}
@@ -39,19 +40,34 @@
     <div
       class="citation-authors"
       {% if citation.authors.size > 10 %}
-        data-tooltip="{{ citation.authors | join: ", " }} "
+        data-tooltip="{{ citation.authors | join: ', ' }}"
       {% endif %}
       tabindex="0"
     >
-      {{
-        citation.authors
-        | join: ","
-        | split: ","
-        | array_carve: 5
-        | join: ", "
-        | default: "[no author info]"
-      }}
+      {% assign authors = citation.authors | join: "," | split: "," %}
+      {% for author in authors %}
+        {% if lab_members contains author %}
+          <strong>{{ author 
+            | join: ","
+            | split: ","
+            | array_carve: 5
+            | join: ", "
+            | default: "[no author info]"
+        }}</strong>
+        {% if forloop.last == false %}, {% endif %}
+        {% else %}
+          {{ author 
+            | join: ","
+            | split: ","
+            | array_carve: 5
+            | join: ", "
+            | default: "[no author info]" 
+          }}
+          {% if forloop.last == false %}, {% endif %}
+        {% endif %}
+      {% endfor %}
     </div>
+
 
     <div class="citation-details">
       {{ citation.publisher | default: "[no publisher info]" }}

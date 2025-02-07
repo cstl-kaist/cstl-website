@@ -72,9 +72,7 @@
     <div class="citation-details">
       {{ citation.publisher | default: "[no publisher info]" }}
       &nbsp; · &nbsp;
-      {{ citation.date | default: "[no date info]" | date: "%d %b %Y" }}
-      &nbsp; · &nbsp;
-      {{ citation.id | default: "[no id info]" }}
+      {{ citation.date | default: "[no date info]" | date: "%b %Y" }}
     </div>
 
     {% if include.style == "rich" %}

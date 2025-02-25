@@ -1,34 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1145/
-  title: |
-    “It’s Great Because It’s Ran By Us”: Empowering Teen Volunteer Discord Moderators to Design Healthy and Engaging Youth-Led Online Communities
-  authors:
-  - Jina Yoon
-  - Amy X. Zhang
-  - Joseph Seering
-  publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2025-04-01'
-  link: https://joseph.seering.org/papers/Yoon_Zhang_and_Seering_2025_Discord_Teen_Mods.pdf
-  image: images/publications/Joseph-2025-DiscordYouth.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3686941
-  title: |
-    Chillbot: Content Moderation in the Backchannel
-  authors:
-  - Joseph Seering
-  - Manas Khadka
-  - Nava Haghighi
-  - Tanya Yang
-  - Zachary Xi
-  - Michael Bernstein
-  publisher: Proceedings of the ACM on Human-Computer Interaction, Volume 8, Issue CSCW2
-  date: '2024-11-08'
-  link: https://doi.org/10.1145/3686941
-  image: images/publications/Joseph-2025-Chillbot.png
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1145/3449161
   title: Moderator Chatbot for Deliberative Discussion
   authors:
@@ -146,7 +117,7 @@
   authors:
   - Jeanne Choi
   - Hyun W. Ka
-  publisher: 'Assistive Technology: Shaping a Sustainable and Inclusive World'
+  publisher: Studies in Health Technology and Informatics
   date: '2023-08-23'
   link: https://doi.org/gtt6qq
   image: images/publications/Jeanne-2023-Accessibility.png

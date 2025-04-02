@@ -1,17 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1145/3637394
-  title: 'Less Talk, More Trust: Understanding Players' In-game Assessment of Communication Processes in League of Legends'
+  title: 'ReSPect: Enabling Active and Scalable Responses to Networked Online Harassment'
   authors:
+  - Haesoo Kim
   - Juhoon Lee
-  - Seoyoung Kim
-  - Yeon Su Park
+  - Jeong-Woo Jang
   - Juho Kim
-  - Jeong-woo Jang
-  - Joseph Seering
-  publisher: CHI2025 Conference on Human Factors in Computing Systems
-  date: '2025-04-30'
-  link: https://arxiv.org/pdf/2502.17935
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2024-04-17'
+  link: https://doi.org/g9bmts
   image: images/publications/Juhoon-2025-League.png
   plugin: sources.py
   file: sources.yaml

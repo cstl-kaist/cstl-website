@@ -26,6 +26,11 @@ affiliated:
   icon: fa-solid fa-graduation-cap
   description: Affiliated Member
 
+visiting:
+  icon: fa-solid fa-graduation-cap
+  description: Visiting Researcher
+
+
 # general
 
 link:

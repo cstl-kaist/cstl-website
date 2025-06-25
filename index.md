@@ -2,8 +2,9 @@
 ---
 
 # Collaborative Social Technologies Lab (CSTL)
+> **<i>In an AI-driven world, how do we build better connections?</i>**
 
-The **Collaborative Social Technologies Lab (CSTL)** is a human-computer interaction research group at KAIST in the School of Computing. Our research — based primarily on the paradigm of *online trust and safety* — focuses on understanding and improving the interpersonal dynamics of social technologies, helping users learn, work, and play together more positively and productively.
+The **Collaborative Social Technologies Lab (CSTL)** at KAIST's School of Computing is dedicated to answering this question. Building from our work in online trust and safety, we chart the course for the future of social computing. We strive to enrich interpersonal dynamics across digital platforms—enabling more positive and productive collaboration, learning, and leisure. By advancing social AI agents and simulation technologies, we aim to unlock a new paradigm in how humans interact with each other and with intelligent systems.
 
 
 {% include home.html %}

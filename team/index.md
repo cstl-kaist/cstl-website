@@ -20,6 +20,9 @@ nav:
 ## Undergraduate Interns
 {% include list.html data="members" component="portrait" filters="role: undergrad" %}
 
+## Visiting Researchers
+{% include list.html data="members" component="portrait" filters="role: visiting" %}
+
 ## Affiliated Members
 {% include list.html data="members" component="portrait" filters="role: affiliated" %}
 
@@ -28,7 +31,6 @@ nav:
 {% include list.html data="members" component="portrait-list" filters="role: alumni, status: visiting" %}
 ### Undergraduate Interns
 {% include list.html data="members" component="portrait-list" filters="role: alumni, status: undergrad" %}
-
 
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!professor$)" %} -->
 

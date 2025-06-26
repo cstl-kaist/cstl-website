@@ -1,5 +1,5 @@
 ---
-title: Recruiting MS students for Spring 2025
+title: Recruiting MS students for Fall 2025
 date: 2025-06-26
 ---
 

@@ -5,7 +5,7 @@ role: alumni
 status: undergrad
 affiliation: KAIST
 term: Winter 2024 - Fall 2024
-description: Currently master's student @EPFL
+description: Now Master's student @EPFL
 link:
   email: ngocdb1609@kaist.ac.kr
 ---

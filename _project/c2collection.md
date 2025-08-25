@@ -2,8 +2,6 @@
 layout: project
 title: "Collaborate to Accumulate!: Group Collaborative Conversation Data Collection"
 subtitle: "We are recruiting class project teams to collect long-term group collaborative conversation data."
-hero_image: /images/projects/c2/hero.png
-hero_alt: "Recruitment banner"
 cta_text: "Submit the form"
 cta_url: "https://bit.ly/collab2accum" # 실제 링크
 # 필요하면 다른 버튼들도 배열로 받을 수 있게 레이아웃을 확장 가능

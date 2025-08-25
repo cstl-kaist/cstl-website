@@ -38,6 +38,12 @@ defaults:
       type: "news"
     values:
       layout: news
+  - scope:
+      type: "project"
+    value:
+      layout: project
+      nav_exclude: true
+      sitemap: false
 
 collections:
   # generate page for each member
@@ -49,6 +55,9 @@ collections:
   # generate page for each post
   news:
     output: true
+  project:
+    output: true
+    permalink: /project/:slug/
 
 # jekyll plugins
 plugins:

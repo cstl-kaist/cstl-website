@@ -43,6 +43,11 @@ layout: default
   </section>
   {% endfor %} {% endif %}
 
+  <article class="prose">
+    {{ content }}
+    <!-- 여기로 페이지의 마크다운이 들어옴 -->
+  </article>
+
   <!-- 하단 연락처/푸터 CTA -->
   {% if page.footer_note %}
   <hr />

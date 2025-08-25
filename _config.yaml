@@ -40,7 +40,7 @@ defaults:
       layout: news
   - scope:
       type: "project"
-    value:
+    values:
       layout: project
       nav_exclude: true
       sitemap: false

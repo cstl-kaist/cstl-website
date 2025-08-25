@@ -1,4 +1,5 @@
 ---
+layout: project
 title: "Collaborate to Accumulate!: Group Collaborative Conversation Data Collection"
 subtitle: "We are recruiting class project teams to collect long-term group collaborative conversation data."
 hero_image: /images/projects/c2/hero.png

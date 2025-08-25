@@ -2,6 +2,8 @@
 layout: project
 title: "Collaborate to Accumulate!: Group Collaborative Conversation Data Collection"
 subtitle: "We are recruiting class project teams to collect long-term group collaborative conversation data."
+hero_image: /images/project/c2banner.png
+hero_alt: "banner image"
 cta_text: "Submit the form"
 cta_url: "https://bit.ly/collab2accum" # 실제 링크
 # 필요하면 다른 버튼들도 배열로 받을 수 있게 레이아웃을 확장 가능
@@ -22,7 +24,7 @@ footer_note: >
 ## Expectation
 
 - Record (phone/Zoom) **every discussion and meeting** of your team
-- Continuously submit (1) **audio files**, (2) **after-meeting surveys** for every meeting, and (3) **messenger logs** related to the project (e.g., Kakao group chat)
+- Continuously submit (1) **audio files**, (2) **after-meeting mini surveys** for every meeting, and (3) **messenger logs** related to the project (e.g., Kakao group chat)
 
 ## Compensation
 

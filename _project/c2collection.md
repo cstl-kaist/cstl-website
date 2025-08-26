@@ -15,22 +15,42 @@ footer_note: >
 
 <!-- 필요하면 본문에 자유 서술/FAQ를 추가 -->
 
-## Condition
+## Eligibility Criteria (all must be met):
 
-- Teams of **3~6 people**. All team members must consent to participate.
-- **At least 6 hours** of discussions between students in **Korean or English** that **can be recorded**
+- All group members must be at least 18 years of age.
+- The group must consist of three (3) or more students engaged in a team project as part of an undergraduate course during the Fall semester.
+- The group must be able to provide audio recordings of collaborative conversations and associated collaboration records throughout the semester.
+- The project must:
+  - Continue for at least four (4) weeks, and
+  - Involve sufficient group discussion (a minimum of six (6) hours of meetings in total).
 - All members should have a **Korean bank account** to receive compensation
+- Depending on the type of project, the research team may determine that participation is not feasible.
 
-## Expectation
+## Purpose of the Study
 
-- Record (by your phone or Zoom) **every discussion and meeting** of your team
-- Submit (1) **audio files**, (2) **after-meeting mini surveys** for every meeting, and (3) **messenger logs** related to the project (e.g., Kakao group chat)
+ The purpose of this research is to collect and analyze records of conversations and collaborative interactions within student project teams. The resulting dataset will be used to examine how group dynamics evolve, how social relationships relate to collaboration, and to support the training and evaluation of socially aware AI agents.
 
-## Compensation
+## Study Procedures
 
-- At the end of the semester, we will provide **500,000 KRW per team (before tax)**
+- Kick-off Meeting: Participants will attend an initial meeting (tutorial) in which the research objectives, procedures, potential risks, and safeguards will be explained.
+- Data Collection:
+  - Participants will record their project-related meetings using their own devices (e.g., smartphones, laptops).
+  - Participants will also provide additional collaboration records, which may include team chat logs, shared documents (e.g., Google Docs), GitHub comments, and other collaboration platform data.
+  - After each meeting, participants will submit the audio recording and complete a brief survey regarding their experience.
+  - Surveys will ask about overall satisfaction with the discussion, perceptions of group dynamics, and the impact of social factors on collaboration.
 
+## Confidentiality and Data Handling
+
+- All collected data will be anonymized and annotated prior to release as a research dataset.
+- The research team will anonymize conversation transcripts to remove self-disclosure and identifying information.
+- Participants may request additional anonymization or the exclusion of specific portions of their data.
+
+
+## Duration and Compensation
+
+-  Participation will extend for the duration of the group’s project, but cannot extend past the end of the Fall 2025 semester. Each team will receive compensation in the amount of **500,000 KRW** at the end of the semester.
+  
 ## Ethics Statement
 
 - This experiment is approved by KAIST IRB. You can check [the participant recruiment call](https://docs.google.com/document/d/1mmFHLUH8sbf2hLG5pLl7P0ncIqXyRz0ZeG8MFZNlSPM/edit?usp=sharing) document which is approved by IRB.
-- The collected data will be disclosed in the form of a dataset after anonymization and annotation. The research team will anonymize all conversation scripts and review to ensure that no self-disclosure information remains. Participants can also request the research team to anonymize or exclude the parts they want.
+

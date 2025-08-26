@@ -9,22 +9,22 @@ cta_url: "https://bit.ly/collab2accum" # 실제 링크
 # 필요하면 다른 버튼들도 배열로 받을 수 있게 레이아웃을 확장 가능
 
 footer_note: >
-  If you're interested, please submit the form (FCFS).  
-  Questions? Contact **Heechan Lee** (<a href="mailto:heechan@kaist.ac.kr">heechan@kaist.ac.kr</a>).
+  If you're interested, please submit the form. We’ll recruit around 25 teams, so recruitment will be First-Come First Serve.   
+  If you have any questions, please contact **Heechan Lee** (<a href="mailto:heechan@kaist.ac.kr">heechan@kaist.ac.kr</a>).
 ---
 
 <!-- 필요하면 본문에 자유 서술/FAQ를 추가 -->
 
 ## Condition
 
-- The team of **3–6 people**, a **free-topic** project
-- **At least 6 hours** of discussions in Korean or English that **can be recorded**
+- Teams of **3~6 people**. All team members must consent to participate.
+- **At least 6 hours** of discussions between students in **Korean or English** that **can be recorded**
 - All members should have a **Korean bank account** to receive compensation
 
 ## Expectation
 
-- Record (phone/Zoom) **every discussion and meeting** of your team
-- Continuously submit (1) **audio files**, (2) **after-meeting mini surveys** for every meeting, and (3) **messenger logs** related to the project (e.g., Kakao group chat)
+- Record (by your phone or Zoom) **every discussion and meeting** of your team
+- Submit (1) **audio files**, (2) **after-meeting mini surveys** for every meeting, and (3) **messenger logs** related to the project (e.g., Kakao group chat)
 
 ## Compensation
 

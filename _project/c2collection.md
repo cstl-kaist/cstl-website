@@ -29,3 +29,8 @@ footer_note: >
 ## Compensation
 
 - At the end of the semester, we will provide **500,000 KRW per team (before tax)**
+
+## Ethics Statement
+
+- This experiment is approved by KAIST IRB. You can check [the participant recruiment call](https://docs.google.com/document/d/1mmFHLUH8sbf2hLG5pLl7P0ncIqXyRz0ZeG8MFZNlSPM/edit?usp=sharing) document which is approved by IRB.
+- The collected data will be disclosed in the form of a dataset after anonymization and annotation. The research team will anonymize all conversation scripts and review to ensure that no self-disclosure information remains. Participants can also request the research team to anonymize or exclude the parts they want.

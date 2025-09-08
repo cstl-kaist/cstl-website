@@ -1,5 +1,77 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3706598.3713598
+  title: 'The Design Space for Online Restorative Justice Tools: A Case Study with
+    ApoloBot'
+  authors:
+  - Bich Ngoc (Rubi) Doan
+  - Joseph Seering
+  publisher: Proceedings of the 2025 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2025-04-25'
+  link: https://doi.org/g9hj5z
+  image: images/publications/Rubi-2025-ApoloBot.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3706598.3714226
+  title: 'Less Talk, More Trust: Understanding Players'' In-game Assessment of Communication
+    Processes in League of Legends'
+  authors:
+  - Juhoon Lee
+  - Seoyoung Kim
+  - Yeon Su Park
+  - Juho Kim
+  - Jeong-woo Jang
+  - Joseph Seering
+  publisher: Proceedings of the 2025 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2025-04-25'
+  link: https://doi.org/g92vsx
+  image: images/publications/Juhoon-2025-League.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3711114
+  title: '"It''s Great Because It''s Ran By Us": Empowering Teen Volunteer Discord
+    Moderators to Design Healthy and Engaging Youth-Led Online Communities'
+  authors:
+  - Jina Yoon
+  - Amy X. Zhang
+  - Joseph Seering
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-05-02'
+  link: https://doi.org/g92vsz
+  image: images/publications/Joseph-2025-DiscordYouth.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3686941
+  title: 'Chillbot: Content Moderation in the Backchannel'
+  authors:
+  - Joseph Seering
+  - Manas Khadka
+  - Nava Haghighi
+  - Tanya Yang
+  - Zachary Xi
+  - Michael Bernstein
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2024-11-07'
+  link: https://doi.org/g92vs2
+  image: images/publications/Joseph-2025-Chillbot.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3706598.3713969
+  title: 'Leveling Up Together: Fostering Positive Growth and Safe Online Spaces for
+    Teen Roblox Developers'
+  authors:
+  - Yubin Choi
+  - Jeanne Choi
+  - Joseph Seering
+  publisher: Proceedings of the 2025 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2025-04-25'
+  link: https://doi.org/g92vs3
+  image: images/publications/Yubin-2025-Roblox.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3449161
   title: Moderator Chatbot for Deliberative Discussion
   authors:

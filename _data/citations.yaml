@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3711114
+  title: '"It''s Great Because It''s Ran By Us": Empowering Teen Volunteer Discord
+    Moderators to Design Healthy and Engaging Youth-Led Online Communities'
+  authors:
+  - Jina Yoon
+  - Amy X. Zhang
+  - Joseph Seering
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-05-02'
+  link: https://doi.org/g92vsz
+  image: images/publications/Joseph-2025-DiscordYouth.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3706598.3713598
   title: 'The Design Space for Online Restorative Justice Tools: A Case Study with
     ApoloBot'
@@ -28,19 +41,6 @@
   date: '2025-04-25'
   link: https://doi.org/g92vsx
   image: images/publications/Juhoon-2025-League.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1145/3711114
-  title: '"It''s Great Because It''s Ran By Us": Empowering Teen Volunteer Discord
-    Moderators to Design Healthy and Engaging Youth-Led Online Communities'
-  authors:
-  - Jina Yoon
-  - Amy X. Zhang
-  - Joseph Seering
-  publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2025-05-02'
-  link: https://doi.org/g92vsz
-  image: images/publications/Joseph-2025-DiscordYouth.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3686941

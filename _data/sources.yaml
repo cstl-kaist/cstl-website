@@ -1,11 +1,11 @@
+- id: doi:10.1145/3711114
+  image: images/publications/Joseph-2025-DiscordYouth.png
+
 - id: doi:10.1145/3706598.3713598
   image: images/publications/Rubi-2025-ApoloBot.png
 
 - id: doi:10.1145/3706598.3714226
   image: images/publications/Juhoon-2025-League.png
-
-- id: doi:10.1145/3711114
-  image: images/publications/Joseph-2025-DiscordYouth.png
 
 - id: doi:10.1145/3686941
   image: images/publications/Joseph-2025-Chillbot.png

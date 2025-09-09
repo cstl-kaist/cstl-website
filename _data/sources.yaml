@@ -1,3 +1,9 @@
+- id: doi:10.48550/arXiv.2508.00439
+  image: images/publications/Jeanne-2025-HateBuffer.png
+
+- id: doi:10.48550/arXiv.2509.06557
+  image: images/publications/Juhoon-2025-Appeals.png
+
 - id: doi:10.1145/3711114
   image: images/publications/Joseph-2025-DiscordYouth.png
 

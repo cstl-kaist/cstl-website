@@ -1,5 +1,35 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/arXiv.2508.00439
+  title: 'HateBuffer: Safeguarding Content Moderators'' Mental Well-Being through
+    Hate Speech Content Modification'
+  authors:
+  - Subin Park
+  - Jeonghyun Kim
+  - Jeanne Choi
+  - Joseph Seering
+  - Uichin Lee
+  - Sung-Ju Lee
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g92zhk
+  image: images/publications/Jeanne-2025-HateBuffer.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2509.06557
+  title: 'Mapping Community Appeals Systems: Lessons for Community-led Moderation
+    in Multi-Level Governance'
+  authors:
+  - Juhoon Lee
+  - Bich Ngoc Doan
+  - Jonghyun Jee
+  - Joseph Seering
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g92zhm
+  image: images/publications/Juhoon-2025-Appeals.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3711114
   title: '"It''s Great Because It''s Ran By Us": Empowering Teen Volunteer Discord
     Moderators to Design Healthy and Engaging Youth-Led Online Communities'

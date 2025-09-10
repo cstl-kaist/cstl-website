@@ -6,10 +6,11 @@
   - Joseph Seering
   - Braahmi Padmakumar
   - Martina Di Paola
-  publisher: SSRN Electronic Journal
-  date: '2025-01-01'
+  publisher: 'Trust, Safety, and the Internet We Share: Multistakeholder Insights'
+  date: '2025-06-30'
   link: https://doi.org/g92352
   image: null
+  tags: Book Chapter
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2508.00439
@@ -22,10 +23,11 @@
   - Joseph Seering
   - Uichin Lee
   - Sung-Ju Lee
-  publisher: arXiv
-  date: '2025-01-01'
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-10-18'
   link: https://doi.org/g92zhk
   image: images/publications/Jeanne-2025-HateBuffer.jpg
+  tags: CSCW
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.06557
@@ -36,10 +38,11 @@
   - Bich Ngoc Doan
   - Jonghyun Jee
   - Joseph Seering
-  publisher: arXiv
-  date: '2025-01-01'
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-10-18'
   link: https://doi.org/g92zhm
   image: images/publications/Juhoon-2025-Appeals.jpg
+  tags: CSCW
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3711114

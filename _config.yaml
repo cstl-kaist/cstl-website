@@ -87,3 +87,6 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
+
+# force jekyll to render html codes:
+parse_block_html: true

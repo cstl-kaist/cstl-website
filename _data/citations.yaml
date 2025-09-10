@@ -13,7 +13,7 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/g92zhk
-  image: images/publications/Jeanne-2025-HateBuffer.png
+  image: images/publications/Jeanne-2025-HateBuffer.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.06557
@@ -27,7 +27,7 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/g92zhm
-  image: images/publications/Juhoon-2025-Appeals.png
+  image: images/publications/Juhoon-2025-Appeals.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3711114
@@ -40,7 +40,7 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-05-02'
   link: https://doi.org/g92vsz
-  image: images/publications/Joseph-2025-DiscordYouth.png
+  image: images/publications/Joseph-2025-DiscordYouth.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3706598.3713598
@@ -53,7 +53,7 @@
     Systems
   date: '2025-04-25'
   link: https://doi.org/g9hj5z
-  image: images/publications/Rubi-2025-ApoloBot.png
+  image: images/publications/Rubi-2025-ApoloBot.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3706598.3714226
@@ -70,7 +70,7 @@
     Systems
   date: '2025-04-25'
   link: https://doi.org/g92vsx
-  image: images/publications/Juhoon-2025-League.png
+  image: images/publications/Juhoon-2025-League.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3686941
@@ -85,7 +85,7 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2024-11-07'
   link: https://doi.org/g92vs2
-  image: images/publications/Joseph-2025-Chillbot.png
+  image: images/publications/Joseph-2025-Chillbot.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3706598.3713969
@@ -112,7 +112,7 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2021-04-13'
   link: https://doi.org/gpgzg8
-  image: images/publications/Joseph-2021-Chatbot.png
+  image: images/publications/Joseph-2021-Chatbot.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3555552
@@ -124,7 +124,7 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2022-11-07'
   link: https://doi.org/gtt6qj
-  image: images/publications/Joseph-2022-AntiSocial.png
+  image: images/publications/Joseph-2022-AntiSocial.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.54501/jots.v1i2.34
@@ -138,7 +138,7 @@
   publisher: Journal of Online Trust and Safety
   date: '2022-02-28'
   link: https://doi.org/gpmmjq
-  image: images/publications/Joseph-2022-VolunteerModeration.png
+  image: images/publications/Joseph-2022-VolunteerModeration.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3579609
@@ -153,7 +153,7 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2023-04-14'
   link: https://doi.org/gtt6qk
-  image: images/publications/Joseph-2023-HateRaids.png
+  image: images/publications/Joseph-2023-HateRaids.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3567568
@@ -164,7 +164,7 @@
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2022-12-29'
   link: https://doi.org/gs98ph
-  image: images/publications/Joseph-2023-Twitch.png
+  image: images/publications/Joseph-2023-Twitch.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3640543.3645155
@@ -181,7 +181,7 @@
     Interfaces
   date: '2024-03-18'
   link: https://doi.org/gtt6qm
-  image: images/publications/Yoojin-2024-DataDive.png
+  image: images/publications/Yoojin-2024-DataDive.jpg
   buttons:
   - type: website
     link: https://datadive.kixlab.org/
@@ -197,7 +197,7 @@
   publisher: Asian Journal of Communication
   date: '2024-04-22'
   link: https://doi.org/gtt6qn
-  image: images/publications/Jonghyun-2024-Wiki.png
+  image: images/publications/Jonghyun-2024-Wiki.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.9728/dcs.2023.24.3.473
@@ -210,7 +210,7 @@
   publisher: Journal of Digital Contents Society
   date: '2023-03-31'
   link: https://doi.org/gtt6qp
-  image: images/publications/Jeanne-2023-Metaverse.png
+  image: images/publications/Jeanne-2023-Metaverse.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3233/SHTI230646
@@ -222,7 +222,7 @@
   publisher: Studies in Health Technology and Informatics
   date: '2023-08-23'
   link: https://doi.org/gtt6qq
-  image: images/publications/Jeanne-2023-Accessibility.png
+  image: images/publications/Jeanne-2023-Accessibility.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BigComp60711.2024.00049
@@ -237,7 +237,7 @@
   publisher: 2024 IEEE International Conference on Big Data and Smart Computing (BigComp)
   date: '2024-02-18'
   link: https://doi.org/gtt6qr
-  image: images/publications/Yubin-2024-ContextAware.png
+  image: images/publications/Yubin-2024-ContextAware.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3491102.3501948
@@ -250,7 +250,7 @@
   publisher: CHI Conference on Human Factors in Computing Systems
   date: '2022-04-29'
   link: https://doi.org/gtt6qs
-  image: images/publications/Yubin-2022-FitVid.png
+  image: images/publications/Yubin-2022-FitVid.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3491102.3502054
@@ -264,6 +264,6 @@
   publisher: CHI Conference on Human Factors in Computing Systems
   date: '2022-04-27'
   link: https://doi.org/gtt6qt
-  image: images/publications/Yubin-2022-MOOCs.png
+  image: images/publications/Yubin-2022-MOOCs.jpg
   plugin: sources.py
   file: sources.yaml

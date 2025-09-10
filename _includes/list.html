@@ -5,6 +5,21 @@
   | data_filter: include.filters
 %}
 
+{% if include.data == "members" %}
+{% assign groups = data | sort: "name" %}
+{% for d in groups %}
+  {% include {{ include.component | append: ".html" }}
+    lookup=d.slug
+    name=d.name
+    affiliation=d.affiliation
+    homepage=d.homepage
+    role=d.role
+    term=d.term
+    description=d.description
+    image=d.image
+  %}
+{% endfor %}
+{% else %}
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
@@ -62,19 +77,4 @@
     %}
   {% endfor %}
 {% endfor %}
-
-{% if include.data == "members" %}
-  {% assign groups = data | sort: "name" %}
-  {% for d in groups %}
-    {% include {{ include.component | append: ".html" }}
-      lookup=d.slug
-      name=d.name
-      affiliation=d.affiliation
-      homepage=d.homepage
-      role=d.role
-      term=d.term
-      description=d.description
-      image=d.image
-    %}
-  {% endfor %}
 {% endif %}

@@ -5,6 +5,7 @@ role: alumni
 status: undergrad
 term: Summer 2025
 affiliation: KAIST
-link:
+homepage: http://www.jaywoong.me/
+link: 
   email: jaywoong.jeong@kaist.ac.kr
 ---

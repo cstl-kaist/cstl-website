@@ -1,5 +1,5 @@
 ---
-name: Jeonggyu Kang
+name: Jihoon Kang
 image: images/members/Jihoon Kang.jpg
 role: undergrad
 link:

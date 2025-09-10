@@ -31,7 +31,7 @@
     {% assign data = year.items | sort: "date" | reverse %}
 
     {% if years.size > 1 %}
-      {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
+      <h3 id="{{ year.name }}">{{ year.name }}</h3>
       {% assign data = data | sort: "date" | reverse %}
     {% endif %}
 

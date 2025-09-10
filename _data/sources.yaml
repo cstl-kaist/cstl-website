@@ -1,11 +1,20 @@
 - id: doi:10.2139/ssrn.5399528
   image: 
+  tags: "Book Chapter"
+  publisher: "Trust, Safety, and the Internet We Share: Multistakeholder Insights"
+  date: '2025-06-30'
 
 - id: doi:10.48550/arXiv.2508.00439
   image: images/publications/Jeanne-2025-HateBuffer.jpg
+  tags: "CSCW"
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-10-18'
 
 - id: doi:10.48550/arXiv.2509.06557
   image: images/publications/Juhoon-2025-Appeals.jpg
+  tags: "CSCW"
+  publisher: Proceedings of the ACM on Human-Computer Interaction
+  date: '2025-10-18'
 
 - id: doi:10.1145/3711114
   image: images/publications/Joseph-2025-DiscordYouth.jpg

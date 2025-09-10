@@ -10,8 +10,8 @@
   - Joseph Seering
   - Uichin Lee
   - Sung-Ju Lee
-  publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2025-10-01'
+  publisher: arXiv
+  date: '2025-01-01'
   link: https://doi.org/g92zhk
   image: images/publications/Jeanne-2025-HateBuffer.jpg
   plugin: sources.py
@@ -24,8 +24,8 @@
   - Bich Ngoc Doan
   - Jonghyun Jee
   - Joseph Seering
-  publisher: Proceedings of the ACM on Human-Computer Interaction
-  date: '2025-10-01'
+  publisher: arXiv
+  date: '2025-01-01'
   link: https://doi.org/g92zhm
   image: images/publications/Juhoon-2025-Appeals.jpg
   plugin: sources.py

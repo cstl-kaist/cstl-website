@@ -1,6 +1,6 @@
 .portrait-wrapper {
   display: contents;
-  align-items: end;
+  align-items: start;
 }
 
 .portrait {

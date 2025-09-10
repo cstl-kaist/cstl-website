@@ -5,7 +5,7 @@ role: alumni
 status: undergrad
 affiliation: KAIST
 term: Summer 2024 - Summer 2025
-description: Now Master's student at Columbia University
+description: Now Master's student @ Columbia University
 link:
   email: jackkang3780@kaist.ac.kr
 ---

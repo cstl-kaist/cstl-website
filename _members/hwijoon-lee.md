@@ -1,7 +1,9 @@
 ---
 name: HwiJoon Lee
 image: images/members/HwiJoon Lee.jpg
-role: visiting
+role: alumni
+status: visiting
+term: Summer 2025
 homepage: https://www.hwijoon.blog/
 description: Northeastern University
 link:

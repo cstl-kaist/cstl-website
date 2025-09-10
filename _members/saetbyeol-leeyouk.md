@@ -5,7 +5,7 @@ role: alumni
 status: undergrad
 affiliation: Sogang University
 term: Winter 2025
-description: Now Master's student at MIT
+description: Now Master's student @ MIT
 homepage: https://sbleeyouk.github.io
 link:
   email: sbleeyouk@gmail.com

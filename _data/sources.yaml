@@ -1,62 +1,62 @@
 - id: doi:10.48550/arXiv.2508.00439
-  image: images/publications/Jeanne-2025-HateBuffer.png
+  image: images/publications/Jeanne-2025-HateBuffer.jpg
 
 - id: doi:10.48550/arXiv.2509.06557
-  image: images/publications/Juhoon-2025-Appeals.png
+  image: images/publications/Juhoon-2025-Appeals.jpg
 
 - id: doi:10.1145/3711114
-  image: images/publications/Joseph-2025-DiscordYouth.png
+  image: images/publications/Joseph-2025-DiscordYouth.jpg
 
 - id: doi:10.1145/3706598.3713598
-  image: images/publications/Rubi-2025-ApoloBot.png
+  image: images/publications/Rubi-2025-ApoloBot.jpg
 
 - id: doi:10.1145/3706598.3714226
-  image: images/publications/Juhoon-2025-League.png
+  image: images/publications/Juhoon-2025-League.jpg
 
 - id: doi:10.1145/3686941
-  image: images/publications/Joseph-2025-Chillbot.png
+  image: images/publications/Joseph-2025-Chillbot.jpg
 
 - id: doi:10.1145/3706598.3713969
   image: images/publications/Yubin-2025-Roblox.jpg
 
 - id: doi:10.1145/3449161
-  image: images/publications/Joseph-2021-Chatbot.png
+  image: images/publications/Joseph-2021-Chatbot.jpg
 
 - id: doi:10.1145/3555552
-  image: images/publications/Joseph-2022-AntiSocial.png
+  image: images/publications/Joseph-2022-AntiSocial.jpg
 
 - id: doi:10.54501/jots.v1i2.34
-  image: images/publications/Joseph-2022-VolunteerModeration.png
+  image: images/publications/Joseph-2022-VolunteerModeration.jpg
 
 - id: doi:10.1145/3579609
-  image: images/publications/Joseph-2023-HateRaids.png
+  image: images/publications/Joseph-2023-HateRaids.jpg
 
 - id: doi:10.1145/3567568
-  image: images/publications/Joseph-2023-Twitch.png
+  image: images/publications/Joseph-2023-Twitch.jpg
 
 - id: doi:10.1145/3640543.3645155
-  image: images/publications/Yoojin-2024-DataDive.png
+  image: images/publications/Yoojin-2024-DataDive.jpg
   buttons:
     - type: website
       link: https://datadive.kixlab.org/
 
 - id: doi:10.1080/01292986.2024.2342822
-  image: images/publications/Jonghyun-2024-Wiki.png
+  image: images/publications/Jonghyun-2024-Wiki.jpg
 
 - id: doi:10.9728/dcs.2023.24.3.473
-  image: images/publications/Jeanne-2023-Metaverse.png
+  image: images/publications/Jeanne-2023-Metaverse.jpg
 
 - id: doi:10.3233/SHTI230646
-  image: images/publications/Jeanne-2023-Accessibility.png
+  image: images/publications/Jeanne-2023-Accessibility.jpg
 
 - id: doi:10.1109/BigComp60711.2024.00049
-  image: images/publications/Yubin-2024-ContextAware.png
+  image: images/publications/Yubin-2024-ContextAware.jpg
 
 - id: doi:10.1145/3491102.3501948
-  image: images/publications/Yubin-2022-FitVid.png
+  image: images/publications/Yubin-2022-FitVid.jpg
 
 - id: doi:10.1145/3491102.3502054
-  image: images/publications/Yubin-2022-MOOCs.png
+  image: images/publications/Yubin-2022-MOOCs.jpg
 
 # Sample Format
 # - id: doi:10.1371/journal.pcbi.1007128

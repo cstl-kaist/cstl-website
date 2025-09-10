@@ -1,6 +1,6 @@
 ---
 name: Yoonseo Choi
-image: images/members/Yoonseo Choi.jpeg
+image: images/members/Yoonseo Choi.jpg
 role: affiliated
 description: KAIST
 homepage: https://www.yoonseochoi.com/

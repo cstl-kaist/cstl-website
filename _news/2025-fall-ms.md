@@ -1,6 +1,5 @@
 ---
 title: Recruiting MS students for Fall 2025
-author: CSTL
 date: 2025-07-01
 updated: 2025-07-01
 ---

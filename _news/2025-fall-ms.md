@@ -1,8 +1,8 @@
 ---
 title: Recruiting MS students for Fall 2025
 author: CSTL
-# date: 2025-06-26
-# updated: 2025-06-26 
+date: 
+updated: 
 ---
 
 The Collaborative Social Technologies Lab (CSTL) is recruiting one MS student for fall 2025 from those already admitted to the School of Computing MS program. Ideal candidates will have experience and interest with HCI and AI.

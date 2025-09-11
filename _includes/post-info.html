@@ -14,22 +14,22 @@
     {% endif %}
   {% endif %}
 
-  <!-- {% assign published = include.published | date: "%B %d, %Y" %}
-  {% assign updated = include.updated | date: "%B %d, %Y" %} -->
+  {% assign published = include.published | date: "%B %d, %Y" %}
+  {% assign updated = include.updated | date: "%B %d, %Y" %}
 
-  {% if include.semester %}
+  {% if include.date %}
     <span>
       {% include icon.html icon="fa-regular fa-calendar" %}
-      <span>{{ include.semester }}</span>
+      <span>{{ include.date }}</span>
     </span>
   {% endif %}
 
-  <!-- {% if updated and updated != "" and updated != published %}
+  {% if updated and updated != "" and updated != published %}
     <span data-tooltip="Last updated on">
       {% include icon.html icon="fa-solid fa-clock-rotate-left" %}
       <span>{{ updated }}</span>
     </span>
-  {% endif %} -->
+  {% endif %}
 </div>
 
 {% if include.tags %}

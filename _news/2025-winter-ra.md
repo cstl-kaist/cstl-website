@@ -2,6 +2,7 @@
 title: Call for Applications – Undergraduate Research Assistants, Winter 2025
 website: https://docs.google.com/document/d/1wdzzO0XKH0o6326K-iUjbrSsKovst1LeLiOOIYfDZlk/edit?usp=sharing
 date: 2024-10-25
+
 ---
 
 We are looking for a few undergraduate research interns to join CSTL this winter. 

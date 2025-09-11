@@ -1,41 +1,67 @@
 - id: doi:10.2139/ssrn.5399528
   image: 
-  tags: "Book Chapter"
+  tags:
+    - Book Chapter
   publisher: "Trust, Safety, and the Internet We Share: Multistakeholder Insights"
   date: '2025-06-30'
 
 - id: doi:10.48550/arXiv.2508.00439
   image: images/publications/Jeanne-2025-HateBuffer.jpg
-  tags: "CSCW"
+  tags:
+    - CSCW
+    - Paper
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-10-19'
 
 - id: doi:10.48550/arXiv.2509.06557
   image: images/publications/Juhoon-2025-Appeals.jpg
-  tags: "CSCW"
+  tags:
+    - CSCW
+    - Paper
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-10-19'
 
 - id: doi:10.1145/3711114
   image: images/publications/Joseph-2025-DiscordYouth.jpg
+  tags:
+    - CSCW
+    - Paper
 
 - id: doi:10.1145/3706598.3713598
   image: images/publications/Rubi-2025-ApoloBot.jpg
+  tags:
+    - CHI
+    - Paper
 
 - id: doi:10.1145/3706598.3714226
   image: images/publications/Juhoon-2025-League.jpg
+  tags:
+    - CHI
+    - Paper
 
 - id: doi:10.1145/3686941
   image: images/publications/Joseph-2025-Chillbot.jpg
+  tags:
+    - CSCW
+    - Paper
 
 - id: doi:10.1145/3706598.3713969
   image: images/publications/Yubin-2025-Roblox.jpg
+  tags:
+    - CHI
+    - Paper
 
 - id: doi:10.1145/3449161
   image: images/publications/Joseph-2021-Chatbot.jpg
+  tags:
+    - CSCW
+    - Paper
 
 - id: doi:10.1145/3555552
   image: images/publications/Joseph-2022-AntiSocial.jpg
+  tags:
+    - CSCW
+    - Paper  
 
 - id: doi:10.54501/jots.v1i2.34
   image: images/publications/Joseph-2022-VolunteerModeration.jpg

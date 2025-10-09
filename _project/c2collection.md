@@ -4,12 +4,14 @@ title: "Collaborate to Accumulate!: Group Collaborative Conversation Data Collec
 subtitle: "We are recruiting class project teams to collect long-term group collaborative conversation data."
 hero_image: /images/project/c2banner.png
 hero_alt: "banner image"
-cta_text: "Submit the form"
-cta_url: "https://bit.ly/collab2accum" # 실제 링크
-# 필요하면 다른 버튼들도 배열로 받을 수 있게 레이아웃을 확장 가능
+cta_buttons:
+  - text: "Submit Form (KAIST 학생용)"
+    url: "https://bit.ly/collab2accum"
+  - text: "Submit Form (외부 학생용)"
+    url: "https://forms.gle/9q3moLb8dxdVyzQV6"
 
 footer_note: >
-  If you're interested, please submit the form. We’ll recruit around 25 teams, so recruitment will be First-Come First Serve.   
+  If you're interested, please submit the form. We'll recruit around 25 teams, so recruitment will be First-Come First Serve.   
   If you have any questions, please contact **Heechan Lee** (<a href="mailto:heechan@kaist.ac.kr">heechan@kaist.ac.kr</a>).
 ---
 
@@ -28,7 +30,7 @@ footer_note: >
 
 ## Purpose of the Study
 
- The purpose of this research is to collect and analyze records of conversations and collaborative interactions within student project teams. The resulting dataset will be used to examine how group dynamics evolve, how social relationships relate to collaboration, and to support the training and evaluation of socially aware AI agents.
+The purpose of this research is to collect and analyze records of conversations and collaborative interactions within student project teams. The resulting dataset will be used to examine how group dynamics evolve, how social relationships relate to collaboration, and to support the training and evaluation of socially aware AI agents.
 
 ## Study Procedures
 
@@ -45,12 +47,10 @@ footer_note: >
 - The research team will anonymize conversation transcripts to remove self-disclosure and identifying information.
 - Participants may request additional anonymization or the exclusion of specific portions of their data.
 
-
 ## Duration and Compensation
 
--  Participation will extend for the duration of the group’s project, but cannot extend past the end of the Fall 2025 semester. Each team will receive compensation in the amount of **500,000 KRW** at the end of the semester.
-  
+- Participation will extend for the duration of the group’s project, but cannot extend past the end of the Fall 2025 semester. Each team will receive compensation in the amount of **500,000 KRW** at the end of the semester.
+
 ## Ethics Statement
 
 - This experiment is approved by KAIST IRB. You can check [the participant recruiment call](https://docs.google.com/document/d/1mmFHLUH8sbf2hLG5pLl7P0ncIqXyRz0ZeG8MFZNlSPM/edit?usp=sharing) document which is approved by IRB.
-

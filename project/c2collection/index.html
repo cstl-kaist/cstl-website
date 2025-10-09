@@ -404,9 +404,16 @@
     <h1>Collaborate to Accumulate!: Group Collaborative Conversation Data Collection</h1>
     
     <p class="lead">We are recruiting class project teams to collect long-term group collaborative conversation data.</p>
-     
-    <p>
-      <a class="btn btn-primary" href="https://bit.ly/collab2accum" target="_blank" rel="noopener">Submit the form</a>
+    
+
+    <!-- 단일 CTA 또는 다중 CTA 지원 -->
+    
+    <p class="cta-buttons">
+      
+      <a class="btn btn-primary" href="https://bit.ly/collab2accum" target="_blank" rel="noopener">Submit Form (KAIST 학생용)</a>
+      
+      <a class="btn btn-primary" href="https://forms.gle/9q3moLb8dxdVyzQV6" target="_blank" rel="noopener">Submit Form (외부 학생용)</a>
+      
     </p>
     
   </section>
@@ -471,7 +478,6 @@
   <li>This experiment is approved by KAIST IRB. You can check <a href="https://docs.google.com/document/d/1mmFHLUH8sbf2hLG5pLl7P0ncIqXyRz0ZeG8MFZNlSPM/edit?usp=sharing">the participant recruiment call</a> document which is approved by IRB.</li>
 </ul>
 
-
     <!-- 여기로 페이지의 마크다운이 들어옴 -->
   </article>
 
@@ -513,10 +519,18 @@
     padding: 0.6rem 1rem;
     border-radius: 0.6rem;
     text-decoration: none;
+    display: inline-block;
+    margin: 0.25rem;
   }
   .btn-primary {
     background: #1f6feb;
     color: #fff;
+  }
+  .cta-buttons {
+    display: flex;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    justify-content: center;
   }
 </style>
   </section>

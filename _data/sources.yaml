@@ -1,17 +1,3 @@
-- id: 
-  title: "Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures to Combat Deepfake Sexual Abuse"
-  authors:
-    - Saetbyeol Leeyouk, Joseph Seering
-  image: images/publications/Saetbyeol-2026-Deepfake.jpg
-  tags:
-    - Conference
-    - CHI
-    - Trust and Safety
-    - Content Moderation
-    - Qualitative
-  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems 
-  date: '2026-04-13'
-
 - id: doi:10.48550/arXiv.2510.02766
   image: images/publications/Yoojin-2026-Discourse.jpg
   tags:

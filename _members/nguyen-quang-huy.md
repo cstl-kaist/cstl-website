@@ -1,6 +1,6 @@
 ---
 name: Nguyen Quang Huy
-image: images/members/Nguyen_Quang_Huy_CSTL.jpg
+image: images/members/Nguyen Quang Huy.jpg
 role: alumni
 status: undergrad
 affiliation: Vietnam National University

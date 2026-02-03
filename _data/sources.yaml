@@ -1,3 +1,15 @@
+- id: 
+  title: Evalet
+  authors:
+  - Heechan Lee
+  - Taesoo Kim
+  - Joseph Seering
+  image: 
+  tags:
+    - Book Chapter
+  publisher: "Trust, Safety, and the Internet We Share: Multistakeholder Insights"
+  date: '2025-06-30'
+
 - id: doi:10.2139/ssrn.5399528
   image: 
   tags:

@@ -12,6 +12,9 @@
   date: '2026-04-13'
   link: https://doi.org/hbnh6j
   image: images/publications/Yoojin-2026-Discourse.jpg
+  buttons:
+  - type: source
+    link: pdfs/publications/Yoojin-2026-Discourse.pdf
   tags:
   - Conference
   - CHI
@@ -33,6 +36,8 @@
   link: https://doi.org/hbnh6f
   image: images/publications/Heechan-2026-Evalet.jpg
   buttons:
+  - type: source
+    link: pdfs/publications/Heechan-2026-Evalet.pdf
   - type: website
     link: https://evalet.netlify.app/
   tags:
@@ -437,7 +442,7 @@
   image: images/publications/Saetbyeol-2026-Deepfake.jpg
   buttons:
   - type: source
-    link: https://evalet.netlify.app/
+    link: pdfs/publications/Saetbyeol-2026-Deepfake.pdf
   authors:
   - Saetbyeol Leeyouk
   - Joseph Seering

@@ -1,20 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.2139/ssrn.5399528
-  title: Evalet
+- id: doi:10.48550/arXiv.2509.11206
+  title: 'Evalet: Evaluating Large Language Models by Fragmenting Outputs into Functions'
   authors:
+  - Tae Soo Kim
   - Heechan Lee
-  - Taesoo Kim
+  - Yoonjoo Lee
   - Joseph Seering
+  - Juho Kim
+  publisher: 'Trust, Safety, and the Internet We Share: Multistakeholder Insights'
+  date: '2026-04-13'
+  link: https://doi.org/hbnh6f
+  image: null
+  tags:
+  - Conference
+  - CHI
+  - System Building
+  - LLM Evaluation
+  - Sensemaking
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.2139/ssrn.5399528
+  title: Trust and Safety Tooling as a User Experience Challenge
+  authors:
+  - Joseph Seering
+  - Braahmi Padmakumar
+  - Martina Di Paola
   publisher: 'Trust, Safety, and the Internet We Share: Multistakeholder Insights'
   date: '2025-06-30'
   link: https://doi.org/g92352
   image: null
   tags:
   - Book Chapter
+  - Trust and Safety
+  - Online Governance
+  - Content Moderation
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2508.00439
+- id: doi:10.1145/3757609
   title: 'HateBuffer: Safeguarding Content Moderators'' Mental Well-Being through
     Hate Speech Content Modification'
   authors:
@@ -26,28 +49,34 @@
   - Sung-Ju Lee
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-10-19'
-  link: https://doi.org/g92zhk
+  link: https://doi.org/hbnh59
   image: images/publications/Jeanne-2025-HateBuffer.jpg
   tags:
+  - Conference
   - CSCW
-  - Paper
+  - Content Moderation
+  - Trust and Safety
+  - System Building
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2509.06557
+- id: doi:10.1145/3757627
   title: 'Mapping Community Appeals Systems: Lessons for Community-led Moderation
     in Multi-Level Governance'
   authors:
   - Juhoon Lee
-  - Bich Ngoc Doan
+  - Bich Ngoc (Rubi) Doan
   - Jonghyun Jee
   - Joseph Seering
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-10-19'
-  link: https://doi.org/g92zhm
+  link: https://doi.org/hbnh6b
   image: images/publications/Juhoon-2025-Appeals.jpg
   tags:
+  - Conference
   - CSCW
-  - Paper
+  - Online Governance
+  - Content Moderation
+  - Qualitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3711114
@@ -62,8 +91,11 @@
   link: https://doi.org/g92vsz
   image: images/publications/Joseph-2025-DiscordYouth.jpg
   tags:
+  - Conference
   - CSCW
-  - Paper
+  - Online Governance
+  - Qualitative
+  - Content Moderation
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3706598.3713598
@@ -78,8 +110,11 @@
   link: https://doi.org/g9hj5z
   image: images/publications/Rubi-2025-ApoloBot.jpg
   tags:
+  - Conference
   - CHI
-  - Paper
+  - System Building
+  - Online Governance
+  - Digital Collaboration
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3706598.3714226
@@ -98,8 +133,11 @@
   link: https://doi.org/g92vsx
   image: images/publications/Juhoon-2025-League.jpg
   tags:
+  - Conference
   - CHI
-  - Paper
+  - Digital Collaboration
+  - Online Governance
+  - Qualitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3686941
@@ -116,8 +154,11 @@
   link: https://doi.org/g92vs2
   image: images/publications/Joseph-2025-Chillbot.jpg
   tags:
+  - Conference
   - CSCW
-  - Paper
+  - Content Moderation
+  - System Building
+  - Online Governance
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3706598.3713969
@@ -133,8 +174,11 @@
   link: https://doi.org/g92vs3
   image: images/publications/Yubin-2025-Roblox.jpg
   tags:
+  - Conference
   - CHI
-  - Paper
+  - Trust and Safety
+  - Digital Collaboration
+  - Qualitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3449161
@@ -149,8 +193,11 @@
   link: https://doi.org/gpgzg8
   image: images/publications/Joseph-2021-Chatbot.jpg
   tags:
+  - Conference
   - CSCW
-  - Paper
+  - Agents
+  - Online Discussion
+  - System Building
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3555552
@@ -164,8 +211,11 @@
   link: https://doi.org/gtt6qj
   image: images/publications/Joseph-2022-AntiSocial.jpg
   tags:
+  - Conference
   - CSCW
-  - Paper
+  - Content Moderation
+  - Trust and Safety
+  - Quantitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.54501/jots.v1i2.34
@@ -180,6 +230,12 @@
   date: '2022-02-28'
   link: https://doi.org/gpmmjq
   image: images/publications/Joseph-2022-VolunteerModeration.jpg
+  tags:
+  - Journal
+  - Journal of Online Trust and Safety
+  - Online Governance
+  - Content Moderation
+  - Digital Collaboration
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3579609
@@ -195,6 +251,11 @@
   date: '2023-04-14'
   link: https://doi.org/gtt6qk
   image: images/publications/Joseph-2023-HateRaids.jpg
+  tags:
+  - Conference
+  - CSCW
+  - Trust and Safety
+  - Quantitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3567568
@@ -206,6 +267,12 @@
   date: '2022-12-29'
   link: https://doi.org/gs98ph
   image: images/publications/Joseph-2023-Twitch.jpg
+  tags:
+  - Conference
+  - GROUP
+  - Content Moderation
+  - Qualitative
+  - Online Governance
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3640543.3645155
@@ -226,6 +293,11 @@
   buttons:
   - type: website
     link: https://datadive.kixlab.org/
+  tags:
+  - Conference
+  - IUI
+  - Online Discussion
+  - System Building
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1080/01292986.2024.2342822
@@ -239,6 +311,11 @@
   date: '2024-04-22'
   link: https://doi.org/gtt6qn
   image: images/publications/Jonghyun-2024-Wiki.jpg
+  tags:
+  - Journal
+  - Asian Journal of Communication
+  - Digital Collaboration
+  - Qualitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.9728/dcs.2023.24.3.473
@@ -252,6 +329,11 @@
   date: '2023-03-31'
   link: https://doi.org/gtt6qp
   image: images/publications/Jeanne-2023-Metaverse.jpg
+  tags:
+  - Journal
+  - Journal of Digital Contents Society
+  - Accessibility
+  - Qualitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3233/SHTI230646
@@ -264,6 +346,11 @@
   date: '2023-08-23'
   link: https://doi.org/gtt6qq
   image: images/publications/Jeanne-2023-Accessibility.jpg
+  tags:
+  - Extended Abstract
+  - AAATE
+  - Accessibility
+  - Qualitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/BigComp60711.2024.00049
@@ -279,6 +366,12 @@
   date: '2024-02-18'
   link: https://doi.org/gtt6qr
   image: images/publications/Yubin-2024-ContextAware.jpg
+  tags:
+  - Conference
+  - BigComp
+  - Trust and Safety
+  - Dataset
+  - Quantitative
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3491102.3501948
@@ -292,6 +385,10 @@
   date: '2022-04-29'
   link: https://doi.org/gtt6qs
   image: images/publications/Yubin-2022-FitVid.jpg
+  tags:
+  - Conference
+  - CHI
+  - System Building
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3491102.3502054
@@ -306,5 +403,9 @@
   date: '2022-04-27'
   link: https://doi.org/gtt6qt
   image: images/publications/Yubin-2022-MOOCs.jpg
+  tags:
+  - Conference
+  - CHI
+  - Qualitative
   plugin: sources.py
   file: sources.yaml

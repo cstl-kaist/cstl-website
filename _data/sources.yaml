@@ -1,4 +1,4 @@
-- id: doi:10.2139/ssrn.5399528
+- id: doi:10.1145/3772318.3790285
   title: Evalet
   authors:
   - Heechan Lee
@@ -6,107 +6,192 @@
   - Joseph Seering
   image: 
   tags:
-    - Book Chapter
+    - Conference
+    - CHI
+    - System Building
+    - LLM Evaluation
+    - Sensemaking
   publisher: "Trust, Safety, and the Internet We Share: Multistakeholder Insights"
-  date: '2025-06-30'
+  date: '2026-04-13'
 
 - id: doi:10.2139/ssrn.5399528
   image: 
   tags:
     - Book Chapter
+    - Trust and Safety
+    - Online Governance
+    - Content Moderation
   publisher: "Trust, Safety, and the Internet We Share: Multistakeholder Insights"
   date: '2025-06-30'
 
-- id: doi:10.48550/arXiv.2508.00439
+- id: doi:10.1145/3757609
   image: images/publications/Jeanne-2025-HateBuffer.jpg
   tags:
+    - Conference
     - CSCW
-    - Paper
+    - Content Moderation
+    - Trust and Safety
+    - System Building
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-10-19'
 
-- id: doi:10.48550/arXiv.2509.06557
+- id: doi:10.1145/3757627
   image: images/publications/Juhoon-2025-Appeals.jpg
   tags:
+    - Conference
     - CSCW
-    - Paper
+    - Online Governance
+    - Content Moderation
+    - Qualitative
   publisher: Proceedings of the ACM on Human-Computer Interaction
   date: '2025-10-19'
 
 - id: doi:10.1145/3711114
   image: images/publications/Joseph-2025-DiscordYouth.jpg
   tags:
+    - Conference
     - CSCW
-    - Paper
+    - Online Governance
+    - Qualitative
+    - Content Moderation
 
 - id: doi:10.1145/3706598.3713598
   image: images/publications/Rubi-2025-ApoloBot.jpg
   tags:
+    - Conference
     - CHI
-    - Paper
+    - System Building
+    - Online Governance
+    - Digital Collaboration
 
 - id: doi:10.1145/3706598.3714226
   image: images/publications/Juhoon-2025-League.jpg
   tags:
+    - Conference
     - CHI
-    - Paper
+    - Digital Collaboration
+    - Online Governance
+    - Qualitative
 
 - id: doi:10.1145/3686941
   image: images/publications/Joseph-2025-Chillbot.jpg
   tags:
+    - Conference
     - CSCW
-    - Paper
+    - Content Moderation
+    - System Building
+    - Online Governance
 
 - id: doi:10.1145/3706598.3713969
   image: images/publications/Yubin-2025-Roblox.jpg
   tags:
+    - Conference
     - CHI
-    - Paper
+    - Trust and Safety
+    - Digital Collaboration
+    - Qualitative
 
 - id: doi:10.1145/3449161
   image: images/publications/Joseph-2021-Chatbot.jpg
   tags:
+    - Conference
     - CSCW
-    - Paper
+    - Agents
+    - Online Discussion
+    - System Building
 
 - id: doi:10.1145/3555552
   image: images/publications/Joseph-2022-AntiSocial.jpg
   tags:
+    - Conference
     - CSCW
-    - Paper  
+    - Content Moderation
+    - Trust and Safety
+    - Quantitative
 
 - id: doi:10.54501/jots.v1i2.34
   image: images/publications/Joseph-2022-VolunteerModeration.jpg
+  tags:
+    - Journal
+    - Journal of Online Trust and Safety
+    - Online Governance
+    - Content Moderation
+    - Digital Collaboration
 
 - id: doi:10.1145/3579609
   image: images/publications/Joseph-2023-HateRaids.jpg
+  tags:
+    - Conference
+    - CSCW
+    - Trust and Safety
+    - Quantitative
 
 - id: doi:10.1145/3567568
   image: images/publications/Joseph-2023-Twitch.jpg
+  tags:
+    - Conference
+    - GROUP
+    - Content Moderation
+    - Qualitative
+    - Online Governance
 
 - id: doi:10.1145/3640543.3645155
   image: images/publications/Yoojin-2024-DataDive.jpg
   buttons:
     - type: website
       link: https://datadive.kixlab.org/
+  tags:
+    - Conference
+    - IUI
+    - Online Discussion
+    - System Building
 
 - id: doi:10.1080/01292986.2024.2342822
   image: images/publications/Jonghyun-2024-Wiki.jpg
+  tags:
+    - Journal
+    - Asian Journal of Communication
+    - Digital Collaboration
+    - Qualitative
 
 - id: doi:10.9728/dcs.2023.24.3.473
   image: images/publications/Jeanne-2023-Metaverse.jpg
+  tags:
+    - Journal
+    - Journal of Digital Contents Society
+    - Accessibility
+    - Qualitative
 
 - id: doi:10.3233/SHTI230646
   image: images/publications/Jeanne-2023-Accessibility.jpg
+  tags:
+    - Extended Abstract
+    - AAATE
+    - Accessibility
+    - Qualitative
 
 - id: doi:10.1109/BigComp60711.2024.00049
   image: images/publications/Yubin-2024-ContextAware.jpg
+  tags:
+    - Conference
+    - BigComp
+    - Trust and Safety
+    - Dataset
+    - Quantitative
 
 - id: doi:10.1145/3491102.3501948
   image: images/publications/Yubin-2022-FitVid.jpg
+  tags:
+    - Conference
+    - CHI
+    - System Building
 
 - id: doi:10.1145/3491102.3502054
   image: images/publications/Yubin-2022-MOOCs.jpg
+  tags:
+    - Conference
+    - CHI
+    - Qualitative
 
 # Sample Format
 # - id: doi:10.1371/journal.pcbi.1007128

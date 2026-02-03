@@ -1,16 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.48550/arXiv.2510.02766
-  title: 'Fostering Collective Discourse: A Distributed Role-Based Approach to Online
-    News Commenting'
+  title: 'Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures
+    to Combat Deepfake Sexual Abuse'
   authors:
-  - Yoojin Hong
-  - Yersultan Doszhan
-  - Joseph Seering
-  publisher: Proceedings of CHI
+  - Saetbyeol Leeyouk, Joseph Seering
+  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
+    Systems
   date: '2026-04-13'
   link: https://doi.org/hbnh6j
-  image: null
+  image: images/publications/Yoojin-2026-Discourse.jpg
   tags:
   - Conference
   - CHI
@@ -26,10 +25,11 @@
   - Yoonjoo Lee
   - Joseph Seering
   - Juho Kim
-  publisher: Proceedings of CHI
+  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
+    Systems
   date: '2026-04-13'
   link: https://doi.org/hbnh6f
-  image: null
+  image: images/publications/Heechan-2026-Evalet.jpg
   tags:
   - Conference
   - CHI

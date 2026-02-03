@@ -1,4 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.48550/arXiv.2510.02766
+  title: 'Fostering Collective Discourse: A Distributed Role-Based Approach to Online
+    News Commenting'
+  authors:
+  - Yoojin Hong
+  - Yersultan Doszhan
+  - Joseph Seering
+  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2026-04-13'
+  link: https://doi.org/hbnh6j
+  image: images/publications/Yoojin-2026-Discourse.jpg
+  tags:
+  - Conference
+  - CHI
+  - System Building
+  - Online Discussion
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2509.11206
   title: 'Evalet: Evaluating Large Language Models by Fragmenting Outputs into Functions'
   authors:

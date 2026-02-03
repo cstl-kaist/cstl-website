@@ -432,3 +432,24 @@
   - Qualitative
   plugin: sources.py
   file: sources.yaml
+- title: 'Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures
+    to Combat Deepfake Sexual Abuse'
+  image: images/publications/Saetbyeol-2026-Deepfake.jpg
+  buttons:
+  - type: source
+    link: https://evalet.netlify.app/
+  authors:
+  - Saetbyeol Leeyouk
+  - Joseph Seering
+  tags:
+  - Conference
+  - CHI
+  - Trust and Safety
+  - Content Moderation
+  - Qualitative
+  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
+    Systems
+  date: '2026-04-13'
+  link: cstlab.org
+  plugin: sources.py
+  file: sources.yaml

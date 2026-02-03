@@ -112,10 +112,16 @@
     max-width: calc(100% - 40px);
     width: 100%;
     margin: 10px 20px;
+    display: flex;
   }
   .portrait-small-image {
     width: 60px;
+    height: 60px;
     min-width: 60px;
+    flex-shrink: 0;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    object-fit: cover;
   }
   .portrait-wrapper {
     display: flex;

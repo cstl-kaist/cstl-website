@@ -3,6 +3,9 @@
 - title: 'Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures
     to Combat Deepfake Sexual Abuse'
   image: images/publications/Saetbyeol-2026-Deepfake.jpg
+  buttons:
+  - type: source
+    link: https://evalet.netlify.app/
   authors:
   - Saetbyeol Leeyouk
   - Joseph Seering

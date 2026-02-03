@@ -21,6 +21,9 @@
 
 - id: doi:10.48550/arXiv.2509.11206
   image: images/publications/Heechan-2026-Evalet.jpg
+  buttons:
+    - type: website
+      link: https://evalet.netlify.app/
   tags:
     - Conference
     - CHI

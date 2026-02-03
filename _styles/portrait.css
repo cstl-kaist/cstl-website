@@ -19,8 +19,6 @@
 .portrait-small {
   position: relative;
   display: inline-flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: row;
   gap: 20px;
   margin: 20px;
@@ -106,6 +104,24 @@
 .portrait[data-style=small] .portrait-role .icon {
   left: -2px;
   top: -2px;
+}
+
+/* Mobile Fixes (Screens smaller than 768px) */
+@media (max-width: 768px) {
+  .portrait-small {
+    max-width: calc(100% - 40px);
+    width: 100%;
+    margin: 10px 20px;
+  }
+  .portrait-small-image {
+    width: 60px;
+    min-width: 60px;
+  }
+  .portrait-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 }
 
 /*# sourceMappingURL=portrait.css.map */

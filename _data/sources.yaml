@@ -1,3 +1,13 @@
+- id: doi:10.48550/arXiv.2510.02766
+  image: 
+  tags:
+    - Conference
+    - CHI
+    - System Building
+    - Online Discussion
+  publisher: Proceedings of CHI
+  date: '2026-04-13'
+
 - id: doi:10.48550/arXiv.2509.11206
   image: 
   tags:

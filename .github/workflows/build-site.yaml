@@ -31,7 +31,15 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          bundler-cache: true
+          bundler-cache: false
+
+      - name: Force Tool Update
+        run: |
+          ruby -v
+          gem -v
+          gem update --system --no-document
+          gem install bundler
+          bundle install
 
       - name: Get Pages url
         id: pages

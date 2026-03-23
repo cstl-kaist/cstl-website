@@ -35,8 +35,16 @@ jobs:
         if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.0"
-          bundler-cache: true
+          ruby-version: "3.2"
+          bundler-cache: false
+
+      - name: Force Tool Update
+        run: |
+          ruby -v
+          gem -v
+          gem update --system --no-document
+          gem install bundler
+          bundle install
 
       - name: Get Pages url
         if: github.event.action != 'closed'

@@ -1,9 +1,6 @@
 ---
 ---
 
-$thumb-size: 180px;
-$wrap: 800px;
-
 .citation {
   display: flex;
   margin: 15px 0;
@@ -16,7 +13,7 @@ $wrap: 800px;
 
 .citation-image {
   position: relative;
-  width: $thumb-size;
+  width: 180px;
   flex-shrink: 0;
   // box-shadow: var(--shadow);
 }
@@ -43,7 +40,6 @@ $wrap: 800px;
   z-index: 0;
 }
 
-.citation-title,
 .citation-authors,
 .citation-details,
 .citation-description {
@@ -51,8 +47,19 @@ $wrap: 800px;
   line-height: calc(var(--spacing) - 0.4);
 }
 
+.citation-title-wrap {
+  width: 100%;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
 .citation-title {
   font-weight: var(--semi-bold);
+}
+
+.citation-award {
+  flex-shrink: 0;
 }
 
 .citation-text > .icon {
@@ -85,13 +92,13 @@ $wrap: 800px;
   margin: 0;
 }
 
-@media (max-width: $wrap) {
+@media (max-width: 800px) {
   .citation {
     flex-direction: column;
   }
 
   .citation-image {
     width: unset;
-    height: $thumb-size;
+    height: 180px;
   }
 }

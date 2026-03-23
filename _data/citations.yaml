@@ -20,6 +20,7 @@
   - CHI
   - System Building
   - Online Discussion
+  - Honorable Mention
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.11206
@@ -46,6 +47,7 @@
   - System Building
   - LLM Evaluation
   - Sensemaking
+  - Honorable Mention
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2139/ssrn.5399528

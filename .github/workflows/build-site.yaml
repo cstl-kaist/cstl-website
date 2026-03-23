@@ -31,8 +31,12 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          bundler-cache: true
-          rubygems: latest
+          bundler-cache: false
+
+      - name: Update RubyGems and Install Gems
+        run: |
+          gem update --system 3.3.22 # Or 'latest'
+          bundle install
 
       - name: Get Pages url
         id: pages

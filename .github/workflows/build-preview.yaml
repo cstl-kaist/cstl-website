@@ -38,9 +38,12 @@ jobs:
           ruby-version: "3.2"
           bundler-cache: false
 
-      - name: Update RubyGems and Install Gems
+      - name: Force Tool Update
         run: |
-          gem update --system 3.3.22 # Or 'latest'
+          ruby -v
+          gem -v
+          gem update --system --no-document
+          gem install bundler
           bundle install
 
       - name: Get Pages url

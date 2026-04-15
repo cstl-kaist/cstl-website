@@ -1,3 +1,5 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
 - id: doi:10.48550/arXiv.2510.02766
   title: 'Fostering Collective Discourse: A Distributed Role-Based Approach to Online
     News Commenting'
@@ -18,6 +20,7 @@
   - CHI
   - System Building
   - Online Discussion
+  - award
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.11206
@@ -44,6 +47,7 @@
   - System Building
   - LLM Evaluation
   - Sensemaking
+  - award
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.2139/ssrn.5399528
@@ -435,25 +439,24 @@
   - Qualitative
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1145
-  title: 'Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures
-    to Combat Deepfake Sexual Abuse'
-  image: images/publications/Saetbyeol-2026-Deepfake.jpg
-  buttons:
-  - type: source
-    link: pdfs/publications/Saetbyeol-2026-Deepfake.pdf
+- id: doi:10.48550/arXiv.2604.00001
+  title: Two-Stage Optimizer-Aware Online Data Selection for Large Language Models
   authors:
-  - Saetbyeol Leeyouk
-  - Joseph Seering
+  - Fangxin Wang
+  - Peyman Baghershahi
+  - Langzhou He
+  - Henry Peng Zou
+  - Sourav Medya
+  - Philip S. Yu
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hbw779
+  image: images/publications/Saetbyeol-2026-Deepfake.jpg
   tags:
   - Conference
   - CHI
   - Trust and Safety
   - Content Moderation
   - Qualitative
-  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
-    Systems
-  date: '2026-04-13'
-  link: cstlab.org
   plugin: sources.py
   file: sources.yaml

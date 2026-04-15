@@ -443,15 +443,11 @@
   title: 'Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures
     to Combat Deepfake Sexual Abuse'
   authors:
-  - Fangxin Wang
-  - Peyman Baghershahi
-  - Langzhou He
-  - Henry Peng Zou
-  - Sourav Medya
-  - Philip S. Yu
-  publisher: arXiv
-  date: '2026-01-01'
-  link: https://doi.org/hbw779
+  - Saetbyeol LeeYouk
+  - Joseph Seering
+  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems 
+  date: '2026-04-13'
+  link: https://doi.org/10.1145/3772318.3790902
   image: images/publications/Saetbyeol-2026-Deepfake.jpg
   tags:
   - Conference

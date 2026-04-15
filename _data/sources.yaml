@@ -8,6 +8,7 @@
     - CHI
     - System Building
     - Online Discussion
+    - award
   publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems 
   date: '2026-04-13'
 
@@ -24,6 +25,7 @@
     - System Building
     - LLM Evaluation
     - Sensemaking
+    - award
   publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems 
   date: '2026-04-13'
 
@@ -206,7 +208,8 @@
     - CHI
     - Qualitative
 
-- title: "Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures to Combat Deepfake Sexual Abuse"
+- id: doi:10.48550/arXiv.2604.00001
+  title: "Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures to Combat Deepfake Sexual Abuse"
   image: images/publications/Saetbyeol-2026-Deepfake.jpg
   buttons:
     - type: source

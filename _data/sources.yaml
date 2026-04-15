@@ -207,6 +207,7 @@
     - Qualitative
 
 - title: "Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures to Combat Deepfake Sexual Abuse"
+  id: deepfake
   image: images/publications/Saetbyeol-2026-Deepfake.jpg
   buttons:
     - type: source
@@ -223,6 +224,7 @@
   publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems 
   date: '2026-04-13'
   link: cstlab.org
+
 # Sample Format
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper

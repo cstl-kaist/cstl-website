@@ -35,11 +35,9 @@
       class="citation-title"
     >
       {{ citation.title | default: "[no title info]" }}
+    
+    {% if citation.tags contains "award" %}🏆 {% endif %}{{ citation.title | default: "[no title info]" }}
     </a>
-
-    {% if citation.title contains "Fostering Collective Discourse" or citation.title contains "Evalet" %}
-    <span style="font-size: 1.5em;">🏆</span>
-    {% endif %}
 
     <div
       class="citation-authors"

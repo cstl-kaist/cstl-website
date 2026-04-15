@@ -50,23 +50,6 @@
   - award
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.48550/arXiv.2604.00001
-  title: Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures to Combat Deepfake Sexual Abuse
-  authors:
-  - Saetbyeol Leeyouk
-  - Joseph Seering
-  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
-  date: '2026-04-13'
-  link: https://doi.org/hbw779
-  image: images/publications/Saetbyeol-2026-Deepfake.jpg
-  tags:
-  - Conference
-  - CHI
-  - Trust and Safety
-  - Content Moderation
-  - Qualitative
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.2139/ssrn.5399528
   title: Trust and Safety Tooling as a User Experience Challenge
   authors:
@@ -456,4 +439,24 @@
   - Qualitative
   plugin: sources.py
   file: sources.yaml
-
+- id: doi:10.48550/arXiv.2604.00001
+  title: Two-Stage Optimizer-Aware Online Data Selection for Large Language Models
+  authors:
+  - Fangxin Wang
+  - Peyman Baghershahi
+  - Langzhou He
+  - Henry Peng Zou
+  - Sourav Medya
+  - Philip S. Yu
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hbw779
+  image: images/publications/Saetbyeol-2026-Deepfake.jpg
+  tags:
+  - Conference
+  - CHI
+  - Trust and Safety
+  - Content Moderation
+  - Qualitative
+  plugin: sources.py
+  file: sources.yaml

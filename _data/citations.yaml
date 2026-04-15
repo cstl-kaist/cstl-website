@@ -439,19 +439,20 @@
   - Qualitative
   plugin: sources.py
   file: sources.yaml
-- title: 'Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures
+- id: doi:10.48550/arXiv.2604.00001
+  title: 'Deepfake, Real Harm: A Participatory Approach for Imagining Infrastructures
     to Combat Deepfake Sexual Abuse'
-  date: '2026-04-13'
-  id: deepfake
-  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
-    Systems
-  image: images/publications/Saetbyeol-2026-Deepfake.jpg
-  buttons:
-  - type: source
-    link: pdfs/publications/Saetbyeol-2026-Deepfake.pdf
   authors:
-  - Saetbyeol Leeyouk
-  - Joseph Seering
+  - Fangxin Wang
+  - Peyman Baghershahi
+  - Langzhou He
+  - Henry Peng Zou
+  - Sourav Medya
+  - Philip S. Yu
+  publisher: arXiv
+  date: '2026-01-01'
+  link: https://doi.org/hbw779
+  image: images/publications/Saetbyeol-2026-Deepfake.jpg
   tags:
   - Conference
   - CHI

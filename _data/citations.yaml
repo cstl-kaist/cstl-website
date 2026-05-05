@@ -24,7 +24,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.11206
-  title: 'Evalet: Evaluating Large Language Models by Fragmenting Outputs into Functions'
+  title: 'Evalet: Evaluating Large Language Models through Functional Fragmentation'
   authors:
   - Tae Soo Kim
   - Heechan Lee

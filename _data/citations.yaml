@@ -1,15 +1,14 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: images/publications/Jeanne-2026-CAI.pdf
-  title: 'Situating the Development of Conversational Artificial Intelligence in the Social and Structural Contexts of People with Visual Impairments'
+- id: ''
+  title: Situating the Development of Conversational Artificial Intelligence in the
+    Social and Structural Contexts of People with Visual Impairments
   authors:
   - Jeanne Choi
   - Dasom Choi
   - Sejun Jeong
   - Hwajung Hong
   - Joseph Seering
-  publisher: Proceedings of the 2026 ACM Designing Interactive Systems Conference
-  date: '2026-06-13'
   link: images/publications/Jeanne-2026-CAI.pdf
   image: images/publications/Jeanne-2026-CAI.png
   tags:
@@ -17,10 +16,12 @@
   - DIS
   - Accessibility
   - Qualitative
+  publisher: Proceedings of the 2026 ACM Designing Interactive Systems Conference
+  date: '2026-06-13'
   plugin: sources.py
   file: sources.yaml
 - id: https://polisim.net/assets/papers/accepted_papers/Accuracy_Diversity_and_Reflection_Purpose-driven_Evaluation_for_Social_Simulatio.pdf
-  title: 'Accuracy, Diversity and Reflection: Purpose-driven Evaluation for Social
+  title: 'Accuracy, Diversity, and Reflection: Purpose-driven Evaluation for Social
     Simulation'
   authors:
   - Heechan Lee
@@ -37,7 +38,7 @@
   - Theory Building
   plugin: sources.py
   file: sources.yaml
-- id: doi.org/10.48550/arXiv.2604.11466
+- id: doi:10.48550/arXiv.2604.11466
   title: 'SLALOM: Simulation Lifecycle Analysis via Longitudinal Observation Metrics
     for Social Simulation'
   authors:
@@ -46,7 +47,7 @@
   publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing
     Systems
   date: '2026-05-13'
-  link: https://doi.org/10.48550/arXiv.2604.11466
+  link: https://doi.org/hb4mhg
   image: images/publications/Juhoon-2026-slalom.png
   tags:
   - Workshop
@@ -76,7 +77,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2509.11206
-  title: 'Evalet: Evaluating Large Language Models by Fragmenting Outputs into Functions'
+  title: 'Evalet: Evaluating Large Language Models through Functional Fragmentation'
   authors:
   - Tae Soo Kim
   - Heechan Lee

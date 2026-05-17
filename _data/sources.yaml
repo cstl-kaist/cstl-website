@@ -1,8 +1,35 @@
+- id: images/publications/Jeanne-2026-CAI.pdf
+  image: images/publications/Jeanne-2026-CAI.png
+  tags:
+    - Conference
+    - DIS
+    - Accessibility
+    - Qualitative
+  publisher: Proceedings of the 2026 ACM Designing Interactive Systems Conference
+  date: '2026-06-13'
+
+- id: https://polisim.net/assets/papers/accepted_papers/Accuracy_Diversity_and_Reflection_Purpose-driven_Evaluation_for_Social_Simulatio.pdf
+  image: images/publications/Heechan-2026-Eval.png
+  tags:
+    - Workshop
+    - CHI
+    - LLM Evaluation
+    - Theory Building
+  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems 
+  date: '2026-05-13'
+
+- id: doi.org/10.48550/arXiv.2604.11466
+  image: images/publications/Juhoon-2026-slalom.png
+  tags:
+    - Workshop
+    - CHI
+    - LLM Evaluation
+    - Theory Building
+  publisher: Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems 
+  date: '2026-05-13'
+
 - id: doi:10.48550/arXiv.2510.02766
   image: images/publications/Yoojin-2026-Discourse.jpg
-  buttons:
-    - type: source
-      link: pdfs/publications/Yoojin-2026-Discourse.pdf
   tags:
     - Conference
     - CHI
@@ -16,7 +43,7 @@
   image: images/publications/Heechan-2026-Evalet.jpg
   buttons:
     - type: source
-      link: pdfs/publications/Heechan-2026-Evalet.pdf
+      link: https://github.com/kixlab/evalet
     - type: website
       link: https://evalet.netlify.app/
   tags:

@@ -76,6 +76,12 @@
 
 - id: doi:10.48550/arXiv.2509.11206
   image: images/publications/Heechan-2026-Evalet.jpg
+  authors:
+    - Tae Soo Kim*
+    - Heechan Lee*
+    - Yoonjoo Lee
+    - Joseph Seering
+    - Juho Kim
   buttons:
     - type: source
       link: https://github.com/kixlab/evalet

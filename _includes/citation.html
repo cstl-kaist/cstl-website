@@ -37,36 +37,35 @@
       {% if citation.tags contains "award" %}🏆 {% endif %}{{ citation.title | default: "[no title info]" }}
     </a>
 
+    {% assign has_equal_contribution = false %}
     <div
       class="citation-authors"
       {% if citation.authors.size > 10 %}
-        data-tooltip="{{ citation.authors | join: ', ' }}"
+        data-tooltip="{{ citation.authors | join: ', ' | remove: '*' }}"
       {% endif %}
       tabindex="0"
     >
-      {% assign authors = citation.authors | join: "," | split: "," %}
+      {% assign authors = citation.authors %}
       {% for author in authors %}
-        {% if lab_members contains author %}
-          <strong>{{ author 
-            | join: ","
-            | split: ","
-            | array_carve: 5
-            | join: ", "
-            | default: "[no author info]"
-        }}</strong>
-        {% if forloop.last == false %}, {% endif %}
-        {% else %}
-          {{ author 
-            | join: ","
-            | split: ","
-            | array_carve: 5
-            | join: ", "
-            | default: "[no author info]" 
-          }}
-          {% if forloop.last == false %}, {% endif %}
+        {% assign author_name = author | strip %}
+        {% assign is_equal = false %}
+        {% if author_name contains "*" %}
+          {% assign is_equal = true %}
+          {% assign has_equal_contribution = true %}
         {% endif %}
+        {% assign author_clean = author_name | remove: "*" | strip %}
+
+        {% if lab_members contains author_clean %}
+          <strong>{{ author_clean | default: "[no author info]" }}{% if is_equal %}<sup>*</sup>{% endif %}</strong>
+        {% else %}
+          {{ author_clean | default: "[no author info]" }}{% if is_equal %}<sup>*</sup>{% endif %}
+        {% endif %}
+        {% unless forloop.last %}, {% endunless %}
       {% endfor %}
     </div>
+    {% if has_equal_contribution %}
+      <div class="citation-equal-contribution">* Equal contribution</div>
+    {% endif %}
 
 
     <div class="citation-details">

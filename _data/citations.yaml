@@ -104,8 +104,8 @@
 - id: doi:10.48550/arXiv.2509.11206
   title: 'Evalet: Evaluating Large Language Models through Functional Fragmentation'
   authors:
-  - Tae Soo Kim
-  - Heechan Lee
+  - Tae Soo Kim*
+  - Heechan Lee*
   - Yoonjoo Lee
   - Joseph Seering
   - Juho Kim

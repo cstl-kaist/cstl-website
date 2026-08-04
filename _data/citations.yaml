@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.48550/arXiv.2608.01724
+  title: 'TIDES: A Longitudinal Bilingual Dataset for Modeling Multi-Party Social
+    Dynamics'
+  authors:
+  - Heechan Lee*
+  - Jeonggyu Kang*
+  - Junho Myung
+  - Jaywoong Jeong
+  - Juho Kim
+  - Joseph Seering
+  publisher: The Thrid Annual Conference on Language Modelling (COLM 2026)
+  date: '2026-08-04'
+  link: https://arxiv.org/abs/2608.01724
+  image: images/publications/Heechan-2026-TIDES.png
+  buttons:
+  - type: website
+    link: https://tides.cstlab.org
+  tags:
+  - Conference
+  - COLM
+  - Dataset
+  - Multi-party
+  - Socially-aware LM
+  plugin: sources.py
+  file: sources.yaml
 - id: ''
   title: Situating the Development of Conversational Artificial Intelligence in the
     Social and Structural Contexts of People with Visual Impairments

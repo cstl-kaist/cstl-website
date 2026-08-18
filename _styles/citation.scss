@@ -46,13 +46,21 @@ $wrap: 800px;
 .citation-title,
 .citation-authors,
 .citation-details,
-.citation-description {
+.citation-description,
+.citation-equal-contribution {
   /* width: 100%; */
   line-height: calc(var(--spacing) - 0.4);
 }
 
 .citation-title {
   font-weight: var(--semi-bold);
+}
+
+.citation-equal-contribution {
+  width: 100%;
+  margin-top: -8px;
+  color: var(--gray);
+  font-size: 0.9em;
 }
 
 .citation-text > .icon {

@@ -1,7 +1,8 @@
 ---
 name: Hayeon Doh
-image: images/members/Hayeon Doh.jpeg
+image: images/members/Hayeon_Doh.jpg
 role: ms
+homepage: https://doh-ha.github.io
 link:
-  email: hydoh12@ewha.ac.kr
+  email: hannahdoh@kaist.ac.kr
 ---

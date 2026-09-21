@@ -1,4 +1,6 @@
 ---
+# _news filename to show under Recent News (without .md)
+featured_news: 2027-spring-ms
 ---
 
 # Collaborative Social Technologies Lab (CSTL)
